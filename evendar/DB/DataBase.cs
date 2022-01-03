@@ -29,7 +29,6 @@ namespace evendar.DB
         public static void Execute(string query, params SqlParameter[] arr)
         {
             cn.Open();
-
             SqlCommand cmd = new SqlCommand(query, cn);
             cmd.Parameters.AddRange(arr);
             cmd.CommandType = CommandType.StoredProcedure;
