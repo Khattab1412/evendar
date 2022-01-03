@@ -21,7 +21,7 @@ namespace evendar.Accounts
 {
     public partial class FormCheckEmail : Form
     {
-        public static string email = "";
+        public static string email = ""; 
         public static string code = "";
         public FormCheckEmail()
         {
