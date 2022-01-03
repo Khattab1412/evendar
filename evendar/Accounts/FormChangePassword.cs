@@ -18,7 +18,7 @@ namespace evendar.Accounts
             InitializeComponent();
         }
 
-        private void btnClear_Click(object sender, EventArgs e)
+        private void btnClear_Click(object sender, EventArgs e) 
         {
             txtNewPassword.Clear();
             txtConfirmPassword.Clear();
