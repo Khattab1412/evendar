@@ -34,7 +34,7 @@ namespace evendar.MainPage
 
         private void Event_Load(object sender, EventArgs e)
         {
-            labelEventName.Text = EventPage.eventName;
+             labelEventName.Text = EventPage.eventName;
             labelInterestedIn.Text = DataBase.SearchEventNumber(EventPage.eventName)[0];
             labelUsername.Text = DataBase.SearchEventOwner(EventPage.eventName)[0];
             labelCategory.Text = DataBase.SearchEventCategory(EventPage.eventName)[0];
