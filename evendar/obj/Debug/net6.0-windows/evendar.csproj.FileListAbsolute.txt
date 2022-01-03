@@ -88,3 +88,6 @@ E:\Projects\C#\evendar\evendar\obj\Debug\net6.0-windows\evendar.dll
 E:\Projects\C#\evendar\evendar\obj\Debug\net6.0-windows\ref\evendar.dll
 E:\Projects\C#\evendar\evendar\obj\Debug\net6.0-windows\evendar.pdb
 E:\Projects\C#\evendar\evendar\obj\Debug\net6.0-windows\evendar.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\سطح المكتب\New folder\evendar\evendar\obj\Debug\net6.0-windows\evendar.dll
+C:\Users\DELL\OneDrive\سطح المكتب\New folder\evendar\evendar\obj\Debug\net6.0-windows\ref\evendar.dll
+C:\Users\DELL\OneDrive\سطح المكتب\New folder\evendar\evendar\obj\Debug\net6.0-windows\evendar.pdb
