@@ -397,7 +397,6 @@ namespace evendar.DB
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = new SqlConnection("Data Source=.;Initial Catalog=EvendarDb;Integrated Security=True");
             string s = ExecuteQuery("EventInterestedin", new SqlParameter("@name", eventName)).Rows[0][0].ToString();
-       
             int k = int.Parse(s);
             k++;
             cmd.Connection.Open();
