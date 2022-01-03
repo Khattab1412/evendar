@@ -29,7 +29,7 @@ namespace evendar.MainPage
 
         private void EventPage_Load(object sender, EventArgs e)
         {
-             
+              
 
             string[] str = new string[count];
                 string[] interstedIn = new string[count];
