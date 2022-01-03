@@ -57,7 +57,7 @@ namespace evendar.Accounts
             {
                 btnNature.BackColor = Color.FromArgb(238, 189, 245);
             }
-            if (DataBase.checkInterest(username, btnFashion.Text) == true)
+            if  (DataBase.checkInterest(username, btnFashion.Text) == true)
             {
                 btnFashion.BackColor = Color.FromArgb(238, 189, 245);
             }
