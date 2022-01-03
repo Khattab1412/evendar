@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Accounts\FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormCheckCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormCheckEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormGetUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormInterestedIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\FormPasswordOrUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts\formRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\addEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\EventPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\ProfilePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage\UserControlCalendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
