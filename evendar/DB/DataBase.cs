@@ -19,7 +19,6 @@ namespace evendar.DB
             SqlCommand cmd = new SqlCommand(query, cn);
             cmd.Parameters.AddRange(arr);
             cmd.CommandType = CommandType.StoredProcedure;
-
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();    
             da.Fill(dt);

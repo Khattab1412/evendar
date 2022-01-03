@@ -851,19 +851,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\oem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj",
+      "projectUniqueName": "K:\\evendar\\evendar\\evendar\\evendar.csproj",
       "projectName": "evendar",
-      "projectPath": "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\C#\\evendar\\evendar\\obj\\",
+      "projectPath": "K:\\evendar\\evendar\\evendar\\evendar.csproj",
+      "packagesPath": "C:\\Users\\oem\\.nuget\\packages\\",
+      "outputPath": "K:\\evendar\\evendar\\evendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
