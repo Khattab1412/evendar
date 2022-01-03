@@ -62,7 +62,7 @@ namespace evendar.Accounts
 
         private void FormChangePassword_Load(object sender, EventArgs e)
         {
-
+             
 
         }
 
