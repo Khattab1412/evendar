@@ -11,7 +11,7 @@ using evendar.MainPage;
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormLogin());
+            Application.Run(new FormLogin()); 
         }
     }
 }
