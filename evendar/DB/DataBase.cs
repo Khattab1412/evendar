@@ -359,7 +359,7 @@ namespace evendar.DB
         }
         public static void addEvent(string description,DateTime startDate,DateTime endDate,string name,string location,bool type,DateTime startTime,DateTime endTime,string accuserName, string category)
         {
-            Execute("addEvent",
+             Execute("addEvent",
                 new SqlParameter("@description", description),
                 new SqlParameter("@startDate", startDate),
                 new SqlParameter("@endDate", endDate),
