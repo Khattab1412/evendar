@@ -14,7 +14,7 @@ namespace evendar
 {
     public partial class formRegistration : Form
     {
-        public static string username="";
+        public static string username=""; 
         public formRegistration()
         {
             InitializeComponent();
