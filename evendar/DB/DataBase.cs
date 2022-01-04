@@ -12,6 +12,7 @@ namespace evendar.DB
         public static string connetionString = "Data Source=.;Initial Catalog=EvendarDb;Integrated Security=True";
         public static SqlConnection cn = new SqlConnection(connetionString);
 
+
         public static DataTable ExecuteQuery(string query, params SqlParameter[] arr)
         {
             cn.Open();
