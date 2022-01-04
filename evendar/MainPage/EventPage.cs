@@ -48,7 +48,7 @@ namespace evendar.MainPage
 
 
         public void addToPanel(string[] eventName, string[] interstedIn, string[] category,int Count,Panel panel1)
-        {
+        {  
             int x = 0;
             int y = 0;
             int delta = 10;
