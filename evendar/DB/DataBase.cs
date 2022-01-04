@@ -11,6 +11,8 @@ namespace evendar.DB
 
     internal class DataBase
     {
+       
+        
         public static string connetionString = "Data Source=.;Initial Catalog=EvendarDb;Integrated Security=True";
         public static SqlConnection cn = new SqlConnection(connetionString);
 
