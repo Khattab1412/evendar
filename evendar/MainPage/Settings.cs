@@ -89,5 +89,10 @@ namespace evendar.MainPage
         {
             this.Close();
         }
+
+        private void btninterest_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

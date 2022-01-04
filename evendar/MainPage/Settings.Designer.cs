@@ -38,7 +38,6 @@
             this.btnSaveEmail = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.btninterest = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -94,7 +93,7 @@
             this.panel1.Controls.Add(this.labelWarnging);
             this.panel1.Controls.Add(this.btnSaveEmail);
             this.panel1.Controls.Add(this.txtEmail);
-            this.panel1.Location = new System.Drawing.Point(105, 390);
+            this.panel1.Location = new System.Drawing.Point(99, 332);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(304, 199);
             this.panel1.TabIndex = 7;
@@ -141,32 +140,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(82)))), ((int)(((byte)(255)))));
-            this.label1.Location = new System.Drawing.Point(399, 853);
+            this.label1.Location = new System.Drawing.Point(414, 744);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(121, 20);
             this.label1.TabIndex = 49;
             this.label1.Text = "Go To Main Page";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // btninterest
-            // 
-            this.btninterest.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(50)))), ((int)(((byte)(66)))));
-            this.btninterest.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btninterest.ForeColor = System.Drawing.Color.Gray;
-            this.btninterest.Location = new System.Drawing.Point(132, 337);
-            this.btninterest.Name = "btninterest";
-            this.btninterest.Size = new System.Drawing.Size(231, 32);
-            this.btninterest.TabIndex = 50;
-            this.btninterest.Text = "Change Email";
-            this.btninterest.UseVisualStyleBackColor = false;
-            // 
             // Settings
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(33)))), ((int)(((byte)(36)))));
-            this.ClientSize = new System.Drawing.Size(547, 882);
-            this.Controls.Add(this.btninterest);
+            this.ClientSize = new System.Drawing.Size(547, 773);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.panel1);
@@ -196,6 +182,5 @@
         private Label labelWarnging;
         private PictureBox pictureBox3;
         private Label label1;
-        private Button btninterest;
     }
 }
