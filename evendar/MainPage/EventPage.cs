@@ -11,10 +11,10 @@ using evendar.DB;
 /// <summary>
 /// Every label's Click event is handled by this event handler
 /// </summary>
-/// <param name="sender">The label that was clicked</param>
+/// <param name="sender">The label that was clicked</parsam>
 /// <param name="e"></param>
 namespace evendar.MainPage
-{ 
+{    
     public partial class EventPage : Form
     {
         public Label[] labelName = new Label[5];
