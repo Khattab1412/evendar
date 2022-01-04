@@ -53,6 +53,7 @@
             this.flowPanelEvents.Name = "flowPanelEvents";
             this.flowPanelEvents.Size = new System.Drawing.Size(520, 732);
             this.flowPanelEvents.TabIndex = 1;
+            this.flowPanelEvents.Paint += new System.Windows.Forms.PaintEventHandler(this.flowPanelEvents_Paint);
             // 
             // labelUsername
             // 

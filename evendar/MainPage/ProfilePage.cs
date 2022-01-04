@@ -50,6 +50,7 @@ namespace evendar.MainPage
         private void label1_Click_1(object sender, EventArgs e)
         {
             this.Hide();
+
             Form form = new EventPage();
             form.ShowDialog(this);
             this.Close();
@@ -85,6 +86,13 @@ namespace evendar.MainPage
         }
 
         private void btnPublic_Click(object sender, EventArgs e)
+        {
+
+
+
+        }
+
+        private void flowPanelEvents_Paint(object sender, PaintEventArgs e)
         {
 
         }
