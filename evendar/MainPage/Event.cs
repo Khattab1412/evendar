@@ -98,6 +98,8 @@ namespace evendar.MainPage
             try
             {
 
+
+
                 DataBase.addInterestInEvent(labelEventName.Text);
                 button1.Visible = false;
                 button2.Visible = true;
