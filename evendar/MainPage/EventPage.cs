@@ -14,7 +14,7 @@ using evendar.DB;
 /// <param name="sender">The label that was clicked</param>
 /// <param name="e"></param>
 namespace evendar.MainPage
-{
+{ 
     public partial class EventPage : Form
     {
         public Label[] labelName = new Label[5];
