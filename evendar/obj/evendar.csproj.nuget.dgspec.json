@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj": {}
+    "E:\\Projects\\C#\\New folder (2)\\evendar\\evendar\\evendar.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj": {
+    "E:\\Projects\\C#\\New folder (2)\\evendar\\evendar\\evendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\New folder (2)\\evendar\\evendar\\evendar.csproj",
         "projectName": "evendar",
-        "projectPath": "E:\\Projects\\C#\\evendar\\evendar\\evendar.csproj",
+        "projectPath": "E:\\Projects\\C#\\New folder (2)\\evendar\\evendar\\evendar.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\C#\\evendar\\evendar\\obj\\",
+        "outputPath": "E:\\Projects\\C#\\New folder (2)\\evendar\\evendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

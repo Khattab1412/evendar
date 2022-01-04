@@ -7,6 +7,8 @@ using System.Data;
 using System.Data.SqlClient;
 namespace evendar.DB
 {
+
+
     internal class DataBase
     {
         public static string connetionString = "Data Source=.;Initial Catalog=EvendarDb;Integrated Security=True";
