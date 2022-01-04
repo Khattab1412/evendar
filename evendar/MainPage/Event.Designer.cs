@@ -401,6 +401,6 @@
         private Panel panel5;
         private Label labelMainPage;
         private Panel panel6;
-        private Label label1;
+        private Label label1; 
     }
 }
