@@ -89,12 +89,15 @@ namespace evendar.MainPage
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             try
             {
+
                 DataBase.addInterestInEvent(labelEventName.Text);
                 button1.Visible = false;
                 button2.Visible = true;
